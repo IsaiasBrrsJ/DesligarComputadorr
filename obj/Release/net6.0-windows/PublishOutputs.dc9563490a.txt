@@ -1,0 +1,6 @@
+D:\Desligarpc\DesligaComputador\DesligaComputador\bin\Release\net6.0-windows\app.publish\DesligaComputador.exe
+D:\Desligarpc\DesligaComputador\DesligaComputador\bin\Release\net6.0-windows\app.publish\DesligaComputador.dll
+D:\Desligarpc\DesligaComputador\DesligaComputador\bin\Release\net6.0-windows\app.publish\DesligaComputador.deps.json
+D:\Desligarpc\DesligaComputador\DesligaComputador\bin\Release\net6.0-windows\app.publish\DesligaComputador.runtimeconfig.json
+D:\Desligarpc\DesligaComputador\DesligaComputador\bin\Release\net6.0-windows\app.publish\DesligaComputador.pdb
+D:\Desligarpc\DesligaComputador\DesligaComputador\bin\Release\net6.0-windows\app.publish\aa-DJ\DesligaComputador.resources.dll
